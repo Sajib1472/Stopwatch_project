@@ -38,9 +38,17 @@ A sleek and feature-rich **Stopwatch** app built using **SwiftUI**, designed to 
 
 ## **Screenshots**  
 
-| **Main Stopwatch View** | **Lap Records View** |  
-|--------------------------|-----------------------|  
-| ![Stopwatch Screen](#)   | ![Laps Screen](#)    |  
+ ![Simulator Screenshot - iPhone 16 Pro - 2024-11-17 at 18 10 14](https://github.com/user-attachments/assets/de2d737f-1014-429a-8ff8-275e69e01092)
+
+ 
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-17 at 18 10 28](https://github.com/user-attachments/assets/2d563360-5b3e-4f68-94d2-d38ac5c5247d)
+
+
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-17 at 18 10 41](https://github.com/user-attachments/assets/549e36d6-fd9a-4a35-a71b-642df55aeca0)
+
+
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-17 at 18 10 52](https://github.com/user-attachments/assets/f1d96185-ab89-4431-9222-15664daf4feb)
+
 
 ---
 
@@ -70,22 +78,6 @@ A sleek and feature-rich **Stopwatch** app built using **SwiftUI**, designed to 
 
 4. **Lap Recording:**  
    - Stores lap times in a `@State` array, displayed dynamically in the scrollable view.  
-
----
-
-## **Future Enhancements**  
-
-1. **Dark Mode Support:**  
-   - Ensure a seamless experience for both light and dark themes.  
-
-2. **Share Lap Data:**  
-   - Allow users to export or share lap records.  
-
-3. **Notifications:**  
-   - Add reminders or alerts for specific time intervals.  
-
-4. **Customization Options:**  
-   - Let users change button colors or timer fonts.  
 
 ---
 
