@@ -1,3 +1,6 @@
+# Name : Sajib Biswas
+# Roll : 2007042
+
 # Stopwatch iOS Application  
 
 A sleek and feature-rich **Stopwatch** app built using **SwiftUI**, designed to track elapsed time accurately. This application offers a user-friendly interface with additional functionalities to enhance user experience.  
